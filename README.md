@@ -18,7 +18,6 @@ Key learning features included:
 -adding commenting to the css to help a reader quickly identify sections of the page
 
 Here is a screenshot of our amazing page:
-Develop\assets\images\final site image.PNG
 
 
 Deployment:

@@ -22,9 +22,6 @@ https://github.com/cjsmith011/Horiseon-Web-refactor/blob/main/Develop/assets/ima
 
 Deployment: https://cjsmith011.github.io/Horiseon-Web-refactor/
 
+GitHub repo available at: https://github.com/cjsmith011/Horiseon-Web-refactor.git
+
 Created by: cjsmith011
-
-Submission:
-The URL of the deployed application.
-
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.

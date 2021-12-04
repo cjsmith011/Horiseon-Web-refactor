@@ -1,30 +1,24 @@
 # Code Refactor Starter Code
 
 
-UserStory:
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Welcome to our detailed website where you can learn all about HORISEON!
 
-Acceptance Criteria:
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+This site includes html and css to describe our offerings:
 
-Tech Acceptance:
-Application's links all function correctly.
+We have a webpage that meets accessibility standards with alt text.
 
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+Our css is easy to follow and as simple as we could make it.  This 
+CSS took several iterations.  
 
-Application's CSS file is properly commented.
+Key learning features included:
+-figuring out that the nav section linked to the articles by the href with the # and the id in the article.
+-combining the 3 articles with one shared class for styling
+-moving the order of the elements in the css to follow the html
+-replacing non-semantic elements with semantic elements: bye bye endless divs!
+-adding commenting to the css to help a reader quickly identify sections of the page
+
+
+
 
 Deployment:
 Application deployed at live URL.

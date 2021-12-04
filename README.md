@@ -18,7 +18,7 @@ Key learning features included:
 -adding commenting to the css to help a reader quickly identify sections of the page
 
 Here is a screenshot of our amazing page:
-
+https://github.com/cjsmith011/Horiseon-Web-refactor/blob/main/Develop/assets/images/final%20site%20image.PNG
 
 Deployment:
 Application deployed at live URL.

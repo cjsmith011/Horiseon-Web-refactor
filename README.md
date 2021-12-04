@@ -17,7 +17,8 @@ Key learning features included:
 -replacing non-semantic elements with semantic elements: bye bye endless divs!
 -adding commenting to the css to help a reader quickly identify sections of the page
 
-
+Here is a screenshot of our amazing page:
+Develop\assets\images\final site image.PNG
 
 
 Deployment:
@@ -30,13 +31,6 @@ Application GitHub URL submitted.
 GitHub repository that contains application code.
 
 Quality:
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
 

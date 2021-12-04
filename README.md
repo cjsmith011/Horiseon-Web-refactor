@@ -20,18 +20,9 @@ Key learning features included:
 Here is a screenshot of our amazing page:
 https://github.com/cjsmith011/Horiseon-Web-refactor/blob/main/Develop/assets/images/final%20site%20image.PNG
 
-Deployment:
-Application deployed at live URL.
+Deployment: https://cjsmith011.github.io/Horiseon-Web-refactor/
 
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository that contains application code.
-
-Quality:
-
-Repository contains quality README file with description, screenshot, and link to deployed application.
+Created by: cjsmith011
 
 Submission:
 The URL of the deployed application.
